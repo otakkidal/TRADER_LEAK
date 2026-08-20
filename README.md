@@ -8,6 +8,6 @@ Pada bagian Save as type (Simpan sebagai tipe), ubah dari Text Documents (*.txt)
 Pada kolom File name (Nama file), ketik manual persis seperti ini: .env
 Klik Save.
 Buat file baru, beri nama tepat .env, lalu isi dengan data akun Anda:
-MT5_LOGIN=60806199
-MT5_PASSWORD=Ur7[fqZ^
-MT5_SERVER=FinexBisnisSolusi-Demo
+MT5_LOGIN=id trading
+MT5_PASSWORD= password trading
+MT5_SERVER= server trading
