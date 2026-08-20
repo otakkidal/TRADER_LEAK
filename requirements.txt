@@ -1,0 +1,9 @@
+MetaTrader5
+mplfinance
+pandas
+selenium
+chromedriver-autoinstaller
+requests
+pillow
+webdriver-manager
+
