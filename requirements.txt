@@ -6,4 +6,5 @@ chromedriver-autoinstaller
 requests
 pillow
 webdriver-manager
+python-dotenv
 
