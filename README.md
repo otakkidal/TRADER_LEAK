@@ -11,4 +11,7 @@ Buat file baru, beri nama tepat .env, lalu isi dengan data akun Anda:
 MT5_LOGIN=id trading
 MT5_PASSWORD= password trading
 MT5_SERVER= server trading
+
+
+
 <img width="417" height="114" alt="image" src="https://github.com/user-attachments/assets/78dd4488-ed45-4ab7-959c-1ad62050ab6b" />
