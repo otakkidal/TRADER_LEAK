@@ -12,7 +12,7 @@
 input double InpStartProfitPips     = 10.0; // Profit Awal (Pips) untuk mulai SL+
 input double InpTrailingStepPips    = 10.0; // Kenaikan SL setiap profit bertambah
 input double InpLockProfitPips      = 10.0; // Jumlah Profit (Pips) yang dikunci
-input double InpHedgePips           = 30.0; // Batas Minus (Pips) untuk Auto Hedging
+input double InpHedgePips           = 20.0; // Batas Minus (Pips) untuk Auto Hedging
 input double InpMartingaleMultiplier= 2.0;  // Pengali Lot Martingale (Misal: 2.0 atau 1.5)
 input ulong  InpMagicNumber         = 0;    // Magic Number (0 = Semua posisi)
 input ulong  InpHedgeMagic          = 9999; // Magic Number KHUSUS untuk posisi Hedge
