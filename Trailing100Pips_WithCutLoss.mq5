@@ -9,10 +9,10 @@
 #include <Trade\Trade.mqh>
 
 //--- Input Parameters ---
-input double InpStartProfitPips  = 100.0; // Profit Awal (Pips) untuk mulai SL+
-input double InpTrailingStepPips = 100.0; // Kenaikan SL setiap profit kelipatan 100 Pips
+input double InpStartProfitPips  = 10.0; // Profit Awal (Pips) untuk mulai SL+
+input double InpTrailingStepPips = 10.0; // Kenaikan SL setiap profit kelipatan 100 Pips
 input double InpLockProfitPips   = 5.0;   // Jumlah Profit (Pips) yang dikunci saat pertama kali SL+
-input double InpMaxLossPips      = 300.0; // Batas Maksimal Loss (Pips) untuk Cut Loss Otomatis
+input double InpMaxLossPips      = 30.0; // Batas Maksimal Loss (Pips) untuk Cut Loss Otomatis
 input ulong  InpMagicNumber      = 0;     // Magic Number (0 = Semua posisi)
 input int    InpPipMultiplier    = 10;    // Pengali Pip ke Point (Standar: 1 Pip = 10 Point)
 
